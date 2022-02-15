@@ -1,0 +1,3 @@
+ada 3 jenis sistem version control yaitu terpusat,tersebar,dan lokal
+command branch untuk memudahkan dalam pencarian identifikasi masalah pada suatu program atau code
+dan version control yang sering digunakan adalah git 
